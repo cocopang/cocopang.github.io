@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:            "Youjungeee"
+name:            "週間 洪侑廷"
 
 author:
   facebook:
@@ -62,7 +62,7 @@ nav:
   - name:           "Tags"
     url:            "/tags"
   - name:           "Github"
-    url:            "https://github.com/AWEEKJ/Kiko-plus"
+    url:            "https://youjungeee.github.io"
 
 # Sass
 sass:

@@ -3,7 +3,7 @@ layout: post
 title: "this와 객체 프로토타입"
 description: "You Don't Know JS: this와 객체 프로토타입의 요약 정리입니다."
 date: 2017-10-04
-tags: [You Don't Know JS, this, 프로토타입, prototype]
+tags: [글또, this, prototype]
 comments: true
 share: true
 ---
